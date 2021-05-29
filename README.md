@@ -1,12 +1,8 @@
 # Zadanie: Gry Wojenne
 
-| Termin oddania   | Punkty     |
+| Hard deadline   | Punkty     |
 |------------------|:-----------|
 | 25.06.2021 23:00 |    30      |
-
---- 
-Przekroczenie terminu o **n** zajęć wiąże się z karą:
-- punkty uzyskania za realizację zadania są dzielone przez **2<sup>n</sup>**.
 
 --- 
 
